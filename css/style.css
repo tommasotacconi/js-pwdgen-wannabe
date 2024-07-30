@@ -11,21 +11,21 @@ body {
     padding: 15px;
 }
 
-header {
-    /* position: fixed;
+/* header {
+    position: fixed;
     left: 0px;
     top: 0px;
     z-index: 1;
     width: 100%; 
     color: white;
     font-weight: 600;
-    font-size: 12px; */
+    font-size: 12px;
 }
 
 footer {
-    /* padding: 30px;
-    color: white; */
-}
+    padding: 30px;
+    color: white;
+} */
 
 /* nav {
     line-height: 30px;
